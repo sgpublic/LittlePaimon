@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "mhmzx-little-paimon"
-version = "3.0.17"
+version = "3.0.18"
 description = "（非官方）小派蒙！原神qq群机器人，基于NoneBot2的UID查询、抽卡导出分析、模拟抽卡、实时便签、札记等多功能小助手。"
 authors = ["Madray Haven <sgpublic2002@gmail.com>"]
 license = "AGPL"
